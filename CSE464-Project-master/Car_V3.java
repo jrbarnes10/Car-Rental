@@ -1,7 +1,3 @@
-// ---------------------
-// Author: India Sohal & Team|
-// Date: 11/1/2017     | 
-// ---------------------
 
 public class Car {
 	public enum Category {
